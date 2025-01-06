@@ -1,3 +1,11 @@
+# Peter
+
+```
+./run.sh
+```
+
+# README.md
+
 [English](README.md) | [日本語](README.ja.md)
 
 # An educational open-source CPU implemented with RISC-V and Chisel
