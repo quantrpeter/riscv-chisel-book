@@ -939,3 +939,13 @@ SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at
 2025.03.01 17:04:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
 Mar 01, 2025 5:04:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 17:04:57 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 5:04:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 5:04:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.03.01 17:05:00 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 5:05:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 5:06:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
