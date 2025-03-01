@@ -44,3 +44,393 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 2025.01.06 19:16:00 INFO  Shutting down server
 2025.01.06 19:16:00 INFO  shutting down Metals
 2025.01.06 19:16:00 INFO  Exiting server
+2025.03.01 16:23:19 INFO  Started: Metals version 1.5.1 in folders '/home/peter/workspace/riscv-chisel-book' for client Visual Studio Code 1.97.2.[0m
+2025.03.01 16:23:22 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:23:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:23:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:23:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Mar 01, 2025 4:23:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Mar 01, 2025 4:23:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:29 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:31 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:31 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:31 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:31 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:32 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:32 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:32 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:34 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:34 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:34 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:34 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:34 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:35 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:35 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala[0m
+2025.03.01 16:23:35 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:35 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:23:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:23:37 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:23:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:23:39 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:39 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:39 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:39 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:44 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:23:44 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:24:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:24:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:24:41 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/resources/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:41 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/resources/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:42 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/resources/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:46 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:46 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:48 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:48 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:49 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:49 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:49 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala[0m
+2025.03.01 16:24:49 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:49 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:24:57 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:24:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:25:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:25:24 INFO  logging to files /home/peter/workspace/riscv-chisel-book/.metals/metals.log,/home/peter/workspace/chisel-book/.metals/metals.log[0m
+2025.03.01 16:25:24 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:24 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:25 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:25 INFO  Attempting to connect to the build server...[0m
+2025.03.01 16:25:25 INFO  Found a Bloop server running[0m
+2025.03.01 16:25:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/peter/workspace/chisel-book/.metals/bsp.trace.json or /home/peter/.cache/metals/bsp.trace.json[0m
+2025.03.01 16:25:25 INFO  time: Connected to build server in 0.33s[0m
+2025.03.01 16:25:25 INFO  Connected to Build server: Bloop v2.0.8[0m
+Mar 01, 2025 4:25:26 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /home/peter/workspace/chisel-book/.metals/.reports/bloop/2025-03-01/r_Empty build targets...._16-25-25-992.md)
+Mar 01, 2025 4:25:26 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /home/peter/workspace/chisel-book/.metals/.reports/bloop/2025-03-01/r_Empty build targets...._16-25-25-992.md)
+Mar 01, 2025 4:25:26 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /home/peter/workspace/chisel-book/.metals/.reports/bloop/2025-03-01/r_Empty build targets...._16-25-25-992.md)
+Mar 01, 2025 4:25:26 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /home/peter/workspace/chisel-book/.metals/.reports/bloop/2025-03-01/r_Empty build targets...._16-25-25-992.md)
+Mar 01, 2025 4:25:26 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /home/peter/workspace/chisel-book/.metals/.reports/bloop/2025-03-01/r_Empty build targets...._16-25-25-992.md)
+2025.03.01 16:25:25 INFO  time: Imported build in 0.12s[0m
+2025.03.01 16:25:25 INFO  running doctor check[0m
+2025.03.01 16:25:25 INFO  java targets: [0m
+2025.03.01 16:25:28 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2025.03.01 16:25:28 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2025.03.01 16:25:28 INFO  time: indexed workspace in 1.96s[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/chisel-book/example4_vcd/build.sbt[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/resources/Memory.scala[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Core.scala[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala[0m
+2025.03.01 16:25:28 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala[0m
+2025.03.01 16:25:28 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:28 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:28 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:32 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:32 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:33 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:56 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:56 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:56 INFO  no build target found for /home/peter/workspace/chisel-book/example4_vcd/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:58 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:58 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:25:58 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:25:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:26:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:27:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:27:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:27:07 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:07 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:07 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:27:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:27:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:27:20 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:20 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:20 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:27 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:27 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:27 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:27 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:27 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:27:27 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: fetch/ (full report at: /home/peter/workspace/riscv-chisel-book/.metals/.reports/metals-full/2025-03-01/r_empty-definition_16-27-27-746.md)
+Mar 01, 2025 4:27:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:27:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:27:48 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:50 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:50 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:50 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/FetchTest.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/resources/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/resources/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:53 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:57 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:57 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:27:57 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:05 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:05 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:05 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:21 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:21 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:23 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:23 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:23 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:23 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:28:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:28:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:28:35 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:35 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:38 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:38 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:38 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:39 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:45 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:45 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:45 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:28:48 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:10 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:29:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:29:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:29:17 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:17 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:17 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:18 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:18 WARN  Could not find semantic tokens for: file:///home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala[0m
+2025.03.01 16:29:25 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:29:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:29:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:29:30 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:30 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:29:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:29:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:29:51 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:51 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:29:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:30:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:30:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:30:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:08 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala[0m
+2025.03.01 16:30:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:09 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:10 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala[0m
+2025.03.01 16:30:10 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:09 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:09 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:10 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:11 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:11 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:12 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:12 WARN  Could not find semantic tokens for: file:///home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala[0m
+2025.03.01 16:30:12 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:12 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala[0m
+2025.03.01 16:30:12 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:12 WARN  Could not find semantic tokens for: file:///home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala[0m
+2025.03.01 16:30:11 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:30:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:30:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:30:45 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:45 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:30:45 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:31:00 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:31:00 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:31:00 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:31:00 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:31:00 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala[0m
+2025.03.01 16:31:00 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:31:00 WARN  Could not find semantic tokens for: file:///home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala[0m
+2025.03.01 16:31:00 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:31:00 WARN  Could not find semantic tokens for: file:///home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala[0m
+Mar 01, 2025 4:31:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:31:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:34:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:34:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:34:13 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:13 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:13 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:14 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:14 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:14 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:14 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:15 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:15 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:15 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:15 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:16 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:16 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:16 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:16 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:16 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:18 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:18 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:18 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:24 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:51 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:51 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:51 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:52 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:54 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:55 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:55 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:55 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:56 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:59 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala[0m
+2025.03.01 16:34:59 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:34:59 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:02 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:02 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:02 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:05 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:05 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:08 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:09 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:09 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:12 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:12 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:13 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:13 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:13 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:14 WARN  no build target for: /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala[0m
+2025.03.01 16:35:14 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:35:14 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:35:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:35:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.01 16:36:07 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:36:07 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:36:07 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.01 16:36:07 WARN  Could not find semantic tokens for: file:///home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala[0m
+2025.03.01 16:36:11 INFO  no build target found for /home/peter/workspace/riscv-chisel-book/chisel-template/src/test/scala/RiscvTests.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 01, 2025 4:36:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:36:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:36:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:36:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:36:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:37:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:52:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 01, 2025 4:53:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
