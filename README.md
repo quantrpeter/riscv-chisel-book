@@ -109,7 +109,7 @@ The publication covers
 
 	## run 01_fetch
 
-	- comment out [text](chisel-template/src/main/scala/Memory.scala) and [text](chisel-template/src/test/scala/RiscvTests.scala)
+	- comment out chisel-template/src/main/scala/Memory.scala and chisel-template/src/test/scala/RiscvTests.scala
 
 	- run `sbt "testOnly fetch.HexTest"`
 
