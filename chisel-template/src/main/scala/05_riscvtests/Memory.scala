@@ -13,7 +13,7 @@ class ImemPortIo extends Bundle {
 class DmemPortIo extends Bundle {
   val addr  = Input(UInt(WORD_LEN.W))
   val rdata = Output(UInt(WORD_LEN.W))
-  val wen   = Input(Bool())
+  val wen   = Input(UInt(MEN_LEN.W))
   val wdata = Input(UInt(WORD_LEN.W))
 }
 
@@ -24,7 +24,7 @@ class Memory extends Module {
   })
 
   val mem = Mem(16384, UInt(8.W))
-  loadMemoryFromFile(mem, "src/riscv/rv32ui-p-sw.hex")
+  loadMemoryFromFile(mem, "src/riscv/rv32ui-p-add.hex")
   io.imem.inst := Cat(
     mem(io.imem.addr + 3.U(WORD_LEN.W)), 
     mem(io.imem.addr + 2.U(WORD_LEN.W)),
@@ -38,7 +38,7 @@ class Memory extends Module {
     mem(io.dmem.addr)
   )
 
-  when(io.dmem.wen){
+  when(io.dmem.wen === MEN_S){
     mem(io.dmem.addr)                   := io.dmem.wdata( 7,  0)
     mem(io.dmem.addr + 1.U(WORD_LEN.W)) := io.dmem.wdata(15,  8)
     mem(io.dmem.addr + 2.U(WORD_LEN.W)) := io.dmem.wdata(23, 16)

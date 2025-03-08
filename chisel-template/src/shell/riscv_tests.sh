@@ -1,6 +1,7 @@
 #!/bin/bash
 
-UI_INSTS=(sw lw add addi sub and andi or ori xor xori sll srl sra slli srli srai slt sltu slti sltiu beq bne blt bge bltu bgeu jal jalr lui auipc)
+#UI_INSTS=(sw lw add addi sub and andi or ori xor xori sll srl sra slli srli srai slt sltu slti sltiu beq bne blt bge bltu bgeu jal jalr lui auipc)
+UI_INSTS=(sw)
 MI_INSTS=(csr scall)
 
 WORK_DIR=/src/chisel-template

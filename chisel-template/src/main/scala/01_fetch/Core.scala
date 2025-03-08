@@ -28,3 +28,4 @@ class Core extends Module {
   printf(p"inst   : 0x${Hexadecimal(inst)}\n")
   printf("---------\n")
 }
+

@@ -12,3 +12,4 @@ class Top extends Module {
   core.io.imem <> memory.io.imem
   io.exit := core.io.exit
 }
+

@@ -44,3 +44,355 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 2025.01.06 19:16:00 INFO  Shutting down server
 2025.01.06 19:16:00 INFO  shutting down Metals
 2025.01.06 19:16:00 INFO  Exiting server
+2025.02.27 16:34:59 INFO  Started: Metals version 1.5.1 in folders '/Users/peter/workspace/mycpu' for client Visual Studio Code 1.97.2.
+2025.02.27 16:35:02 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:35:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2025.02.27 16:35:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:11 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:35:13 INFO  time: code lens generation in 2.23s
+2025.02.27 16:35:13 INFO  time: code lens generation in 2.23s
+Feb 27, 2025 4:36:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:36:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 16:36:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:36:10 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:36:12 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:36:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 16:36:16 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:36:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:36:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 16:36:25 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:36:25 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:36:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:36:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:36:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 16:36:35 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:36:44 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:37:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:37:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:40:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:40:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:40:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.02.27 16:40:57 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:40:57 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:02 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:03 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:03 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:04 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:03 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:04 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:06 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:06 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:06 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:06 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:07 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:07 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:07 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:07 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:07 WARN  no build target for: /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala
+Feb 27, 2025 4:41:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:19 WARN  no build target for: /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala
+2025.02.27 16:41:19 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:19 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+Feb 27, 2025 4:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+2025.02.27 16:41:19 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:19 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:20 WARN  no build target for: /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 74
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 77
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 79
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 81
+2025.02.27 16:41:19 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:20 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 83
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 87
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 88
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 89
+Feb 27, 2025 4:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 90
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 95
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+2025.02.27 16:41:22 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 97
+2025.02.27 16:41:22 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 100
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+Feb 27, 2025 4:41:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 102
+2025.02.27 16:41:22 WARN  no build target for: /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala
+Feb 27, 2025 4:41:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 105
+2025.02.27 16:41:33 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:35 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:41:39 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:41:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:42:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:42:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:42:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:42:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:42:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:42:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:42:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 16:42:39 INFO  Shutting down server
+2025.02.27 16:42:39 INFO  shutting down Metals
+2025.02.27 16:42:39 INFO  Exiting server
+2025.02.27 16:48:35 INFO  Started: Metals version 1.5.1 in folders '/Users/peter/workspace/mycpu' for client Visual Studio Code 1.97.2.
+2025.02.27 16:48:37 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:48:38 INFO  skipping build import with status 'Dismissed'
+2025.02.27 16:48:38 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:48:47 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:48:47 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:48:47 INFO  time: code lens generation in 9.52s
+2025.02.27 16:49:05 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:05 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:06 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:09 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:49:09 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/peter/workspace/mycpu/.metals/.reports/metals-full/2025-02-27/r_empty-definition_16-49-09-200.md)
+Feb 27, 2025 4:49:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:49:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 16:49:39 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:40 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:41 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:43 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:43 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 16:49:43 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 4:49:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 4:50:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:04:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:04:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 17:04:22 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:24 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:25 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:27 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:27 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:29 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:29 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:29 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:29 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:31 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:31 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:31 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:31 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:31 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:04:32 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 5:04:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:05:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:09:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:09:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 17:09:34 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 5:10:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:12:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:12:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:12:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:15:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:15:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:16:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:16:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:16:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:17:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:17:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:17:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:17:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:17:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:18:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:18:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 17:19:04 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:19:37 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:19:50 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 5:19:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 17:20:03 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 5:20:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:20:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 17:20:18 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 5:20:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 17:20:31 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:38 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:38 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:40 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:40 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:41 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:41 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:42 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:43 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:43 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:43 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:44 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Top.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:44 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:45 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:20:46 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 5:21:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:21:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:21:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:21:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:23:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:23:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:24:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:24:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 17:25:00 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.27 17:25:00 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Core.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 27, 2025 5:27:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:29:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:29:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:29:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:29:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:29:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:29:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:29:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:30:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:30:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:36:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:36:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:36:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb 27, 2025 5:36:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 5:41:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 7:58:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 27, 2025 7:58:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.27 19:58:58 INFO  Shutting down server
+2025.02.27 19:58:58 INFO  shutting down Metals
+2025.02.27 19:58:58 INFO  Exiting server
