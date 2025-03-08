@@ -2,26 +2,10 @@
 [info] Loading project definition from /src/chisel-template/project
 [info] Loading settings for project root from build.sbt ...
 [info] Set current project to %NAME% (in build file:/src/chisel-template/)
-<<<<<<< HEAD
-[info] Compiling 4 Scala sources to /src/chisel-template/target/scala-2.12/classes ...
-[error] /src/chisel-template/src/main/scala/05_riscvtests/Memory.scala:8:7: ImemPortIo is already defined as class ImemPortIo
-[error] class ImemPortIo extends Bundle {
-[error]       ^
-[error] /src/chisel-template/src/main/scala/05_riscvtests/Memory.scala:13:7: DmemPortIo is already defined as class DmemPortIo
-[error] class DmemPortIo extends Bundle {
-[error]       ^
+[info] Compiling 45 Scala sources to /src/chisel-template/target/scala-2.12/classes ...
 [error] /src/chisel-template/src/main/scala/05_riscvtests/Memory.scala:20:7: Memory is already defined as class Memory
 [error] class Memory extends Module {
 [error]       ^
-[error] three errors found
-[error] (Compile / compileIncremental) Compilation failed
-[error] Total time: 4 s, completed Feb 27, 2025, 9:25:52 AM
-=======
-[info] Compiling 2 Scala sources to /src/chisel-template/target/scala-2.12/classes ...
-[error] /src/chisel-template/src/main/scala/Memory.scala:1:9: Invalid literal number
-[error] package 01_fetch
-[error]         ^
 [error] one error found
 [error] (Compile / compileIncremental) Compilation failed
-[error] Total time: 2 s, completed Mar 1, 2025, 8:23:43 AM
->>>>>>> 65978b402e2f5593f5c204ede9bea355920a1814
+[error] Total time: 4 s, completed Mar 8, 2025, 10:23:24 AM
