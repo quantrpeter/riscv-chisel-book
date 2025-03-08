@@ -2651,3 +2651,15 @@ SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at
 2025.03.08 18:36:35 WARN  no build target for: /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala
 2025.03.08 18:36:35 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2025.03.08 18:36:34 INFO  no build target found for /Users/peter/workspace/mycpu/chisel-template/src/main/scala/01_fetch/Memory.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 08, 2025 6:37:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 08, 2025 6:37:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 08, 2025 6:37:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 08, 2025 6:37:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 08, 2025 6:37:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 08, 2025 6:38:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
