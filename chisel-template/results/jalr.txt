@@ -1,2 +1,34 @@
 [info] Loading settings for project chisel-template-build from plugins.sbt ...
+<<<<<<< HEAD
 2025-02-27 09:25:33,424 shutdown-hooks-run-all ERROR No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
+=======
+[info] Loading project definition from /src/chisel-template/project
+[info] Loading settings for project root from build.sbt ...
+[info] Set current project to %NAME% (in build file:/src/chisel-template/)
+Elaborating design...
+Done elaborating.
+[info] RiscvTest:
+[info] mycpu
+[info] - should work through hex *** FAILED ***
+[info]   java.io.FileNotFoundException: src/riscv/rv32ui-p-sw.hex (No such file or directory)
+[info]   at java.base/java.io.FileInputStream.open0(Native Method)
+[info]   at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[info]   at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[info]   at scala.io.Source$.fromFile(Source.scala:94)
+[info]   at scala.io.Source$.fromFile(Source.scala:79)
+[info]   at firrtl.FileUtils$.getLines(FileUtils.scala:110)
+[info]   at firrtl.FileUtils$.getLines(FileUtils.scala:102)
+[info]   at treadle.executable.MemoryInitializer.doInitialize(Memory.scala:665)
+[info]   at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1(Memory.scala:681)
+[info]   at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1$adapted(Memory.scala:680)
+[info]   ...
+[info] Run completed in 2 seconds, 824 milliseconds.
+[info] Total number of tests run: 1
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0
+[info] *** 1 TEST FAILED ***
+[error] Failed tests:
+[error] 	riscvtests.RiscvTest
+[error] (Test / testOnly) sbt.TestsFailedException: Tests unsuccessful
+[error] Total time: 5 s, completed Feb 28, 2025, 4:49:17 AM
+>>>>>>> 65978b402e2f5593f5c204ede9bea355920a1814

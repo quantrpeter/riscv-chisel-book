@@ -2,7 +2,11 @@
 [info] Loading project definition from /src/chisel-template/project
 [info] Loading settings for project root from build.sbt ...
 [info] Set current project to %NAME% (in build file:/src/chisel-template/)
+<<<<<<< HEAD
 [info] Compiling 4 Scala sources to /src/chisel-template/target/scala-2.12/classes ...
+=======
+[info] Compiling 2 Scala sources to /src/chisel-template/target/scala-2.12/classes ...
+>>>>>>> 65978b402e2f5593f5c204ede9bea355920a1814
 [error] /src/chisel-template/src/main/scala/05_riscvtests/Memory.scala:8:7: ImemPortIo is already defined as class ImemPortIo
 [error] class ImemPortIo extends Bundle {
 [error]       ^
@@ -14,4 +18,8 @@
 [error]       ^
 [error] three errors found
 [error] (Compile / compileIncremental) Compilation failed
+<<<<<<< HEAD
 [error] Total time: 4 s, completed Feb 27, 2025, 9:20:17 AM
+=======
+[error] Total time: 2 s, completed Mar 1, 2025, 7:48:29 AM
+>>>>>>> 65978b402e2f5593f5c204ede9bea355920a1814

@@ -2,6 +2,7 @@
 [info] Loading project definition from /src/chisel-template/project
 [info] Loading settings for project root from build.sbt ...
 [info] Set current project to %NAME% (in build file:/src/chisel-template/)
+<<<<<<< HEAD
 [info] Compiling 4 Scala sources to /src/chisel-template/target/scala-2.12/classes ...
 [error] /src/chisel-template/src/main/scala/05_riscvtests/Memory.scala:8:7: ImemPortIo is already defined as class ImemPortIo
 [error] class ImemPortIo extends Bundle {
@@ -15,3 +16,31 @@
 [error] three errors found
 [error] (Compile / compileIncremental) Compilation failed
 [error] Total time: 4 s, completed Feb 27, 2025, 9:24:33 AM
+=======
+Elaborating design...
+Done elaborating.
+[info] RiscvTest:
+[info] mycpu
+[info] - should work through hex *** FAILED ***
+[info]   java.io.FileNotFoundException: src/riscv/rv32ui-p-sw.hex (No such file or directory)
+[info]   at java.base/java.io.FileInputStream.open0(Native Method)
+[info]   at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[info]   at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[info]   at scala.io.Source$.fromFile(Source.scala:94)
+[info]   at scala.io.Source$.fromFile(Source.scala:79)
+[info]   at firrtl.FileUtils$.getLines(FileUtils.scala:110)
+[info]   at firrtl.FileUtils$.getLines(FileUtils.scala:102)
+[info]   at treadle.executable.MemoryInitializer.doInitialize(Memory.scala:665)
+[info]   at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1(Memory.scala:681)
+[info]   at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1$adapted(Memory.scala:680)
+[info]   ...
+[info] Run completed in 2 seconds, 757 milliseconds.
+[info] Total number of tests run: 1
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0
+[info] *** 1 TEST FAILED ***
+[error] Failed tests:
+[error] 	riscvtests.RiscvTest
+[error] (Test / testOnly) sbt.TestsFailedException: Tests unsuccessful
+[error] Total time: 5 s, completed Feb 28, 2025, 4:48:30 AM
+>>>>>>> 65978b402e2f5593f5c204ede9bea355920a1814

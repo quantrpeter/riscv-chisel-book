@@ -105,6 +105,14 @@ The publication covers
 	./riscv_tests.sh riscvtests 05_RiscvTests
 	```
 
+	# Peter
+
+	## run 01_fetch
+
+	- comment out chisel-template/src/main/scala/Memory.scala and chisel-template/src/test/scala/RiscvTests.scala
+
+	- run `sbt "testOnly fetch.HexTest"`
+
 7. [Pipelining](https://github.com/chadyuu/riscv-chisel-book/tree/master/chisel-template/src/main/scala/09_pipeline_datahazard)
 
 	- Control hazards
